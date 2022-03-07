@@ -1,4 +1,4 @@
-package StringReversal;
+package stringReversal;
 
 import java.util.*;
 
